@@ -1,0 +1,6 @@
+#Honeypot search query
+
+#The honeypot information can be retrieved not only with the given query but also by using various server and software keywords.
+
+Criminal IP Search query = Apache or lighttpd or Jetty or EmbeddedHTTPServer or SSL-VPN
+
