@@ -51,6 +51,3 @@ When it comes to honeypots, things like favicons can change even if they use the
 This changing appearance is a way to show honeypots in different ways, so attackers have a tough time telling them apart from real systems. 
 These visual changes can throw attackers off, making it harder for them to figure out exactly what system or software they're dealing with, 
 which makes finding specific weaknesses trickier for them.
-<img src="additionalinformation1.png">
-<img src="additionalinformation2.png">
-<img src="additionalinformation3.png">
